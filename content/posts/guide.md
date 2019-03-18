@@ -1,7 +1,7 @@
 ---
 title: "Guide"
-date: 2019-03-04T16:07:33-05:00
-draft: true
+date: 2017-06-01T16:07:33-05:00
+draft: false
 ---
 
 # The Ambusher Sound: A Listening Guide
