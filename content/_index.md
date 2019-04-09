@@ -4,9 +4,7 @@ featured_image: '/img/florida-trees.jpg'
 description: ""
 ---
 
-*PUBLIC SHOW in LOUISVILLE KY has been CANCELED* 
-
-Questions? Reach out to doa@ambushersound.com.
+listen: [soundcloud](https://soundcloud.com/ambushersound) / booking: `doa@ambushersound.com`
 
 
 
