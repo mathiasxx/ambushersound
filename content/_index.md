@@ -4,7 +4,8 @@ featured_image: '/img/florida-trees.jpg'
 description: ""
 ---
 
-**NEXT APPEARANCE: DOCK6 ART+DESIGN 12 in CHICAGO 5/18/19 2pm**
+**NEXT APPEARANCE: [DOCK6 ART+DESIGN
+12](https://www.dock6collective.com/events/2019/4/22/d6-design-art-12) in CHICAGO 5/18/19 2pm**
 
 -- 
 
