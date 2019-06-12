@@ -4,8 +4,7 @@ featured_image: '/img/florida-trees.jpg'
 description: ""
 ---
 
-**NEXT APPEARANCE: [DOCK6 ART+DESIGN
-12](https://www.dock6collective.com/events/2019/4/22/d6-design-art-12) in CHICAGO 5/18/19 2pm**
+*listen* [soundcloud](https://soundcloud.com/ambushersound) 
 
 -- 
 
@@ -13,7 +12,7 @@ A salmon leaping in the sun reflects a multiverse of rainbow color but a convict
 
 --
 
-[soundcloud](https://soundcloud.com/ambushersound) / booking: `doa@ambushersound.com`
+*booking* `doa@ambushersound.com`
 
 
 
