@@ -4,7 +4,14 @@ featured_image: '/img/florida-trees.jpg'
 description: ""
 ---
 
-*listen* [soundcloud](https://soundcloud.com/ambushersound) 
+*listen* <br>
+[sound cloud](https://soundcloud.com/ambushersound) |
+[bandcamp](https://ambusher.bandcamp.com) |
+[spotify](https://open.spotify.com/artist/0awQztt9158JRJU2kChI8I) |
+[apple](https://geo.music.apple.com/us/artist/ambusher/1476267313?mt=1&app=music) |
+[amazon] (https://music.amazon.com/artists/B0012AD2W0) |
+*etc*
+
 
 -- 
 
