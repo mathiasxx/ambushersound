@@ -9,7 +9,7 @@ description: ""
 [bandcamp](https://ambusher.bandcamp.com) |
 [spotify](https://open.spotify.com/artist/0awQztt9158JRJU2kChI8I) |
 [apple](https://geo.music.apple.com/us/artist/ambusher/1476267313?mt=1&app=music) |
-[amazon] (https://music.amazon.com/artists/B0012AD2W0) |
+[amazon](https://music.amazon.com/artists/B0012AD2W0) |
 *etc*
 
 
@@ -19,7 +19,7 @@ A salmon leaping in the sun reflects a multiverse of rainbow color but a convict
 
 --
 
-*booking* `doa@ambushersound.com`
+*booking* `doa@ambushersound.com` 
 
 
 
